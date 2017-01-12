@@ -1,0 +1,4 @@
+﻿  Singleton.cpp
+d:\theall\sae\programas\singleton2arquitecturas\singleton2arquitecturas\singleton.cpp(23): warning C4101: 'inst': unreferenced local variable
+  Singleton2Arquitecturas.vcxproj -> D:\TheAll\Sae\Programas\Singleton2Arquitecturas\Debug\Singleton2Arquitecturas.exe
+  Singleton2Arquitecturas.vcxproj -> D:\TheAll\Sae\Programas\Singleton2Arquitecturas\Debug\Singleton2Arquitecturas.pdb (Partial PDB)
